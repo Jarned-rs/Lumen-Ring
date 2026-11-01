@@ -18,4 +18,18 @@ On a basic GPIO port, we have 2 main modes that they can be in, either HIGH or L
 # Photos
 Case:
 <img width="1734" height="1087" alt="image" src="https://github.com/user-attachments/assets/3e24c82c-5935-48ac-8b14-49a1d19b2c40" />
+Schematic:
+<img width="926" height="824" alt="image" src="https://github.com/user-attachments/assets/3380ec48-67ae-42b3-8cf0-f9dcbc00c406" />
+PCB:
+<img width="1396" height="747" alt="image" src="https://github.com/user-attachments/assets/6ea77a98-653e-4cc7-95b9-79d77b2fe563" />
 
+BOM:
+|Part|QTY|Price|Link|Note|
+|----------|---------|-----|-------------|--------|
+|RP2040-Zero|1|0|N/A|Already Owned|
+|LEDs|20|$1.35|https://www.aliexpress.com/item/1005004966964656.html?spm=a2g0o.detail.0.0.72c7Vs5tVs5tkD&mp=1||
+|Resistors|5|$5.55|https://www.aliexpress.com/item/1005011772534173.html?spm=a2g0o.cart.0.0.778838daPJe0Vl&mp=1||
+|0.96" OLED|1|$2.23|https://www.aliexpress.com/item/1005006827999782.html?spm=a2g0o.cart.0.0.6f1e38daj4PjJx&mp=1||
+|Case|1|$5|N/A|Friend is printing for me|
+
+Total = $14.14
